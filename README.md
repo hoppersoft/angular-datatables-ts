@@ -1,5 +1,6 @@
 # Installation
 > `npm install --save @types/angular-datatables`
+
 Add a reference to the 'datatables' module to the dependent Angular module.
 
 # Summary
