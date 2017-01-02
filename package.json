@@ -1,0 +1,30 @@
+{
+  "author": {
+    "email": "http://github.com/hoppersoft",
+    "name": "Andy Hopper"
+  },
+  "dependencies": {
+    "@types/angular": "*"
+  },
+  "description": "TypeScript definitions for angular-datatables (datatables module)",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/angular-datatables",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/hoppersoft/angular-datatables-types.git"
+  },
+  "scripts": {},
+  "version": "0.5.5"
+}
